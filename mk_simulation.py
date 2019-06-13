@@ -307,8 +307,8 @@ def main3(argv):
 			print(steps)
 			break
 
-# Final main method for now
-			
+# Secondary Option
+# Methods Developed by Ben Webb
 def main2(argv):
 	''' Main control loop. First creates all environmental variables and then loops through each frame and calculates
 		the state of the system given change of the system since the last frame '''
